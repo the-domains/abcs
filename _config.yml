@@ -1,7 +1,7 @@
 name: ABCS
 favicon: null
-layout_spectrum: 0.4143238612450659
-typography_spectrum: 0.14671786525286734
+layout_spectrum: 0.25181
+typography_spectrum: 0.74819
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.0068717473186552525
+    - '#ffffff'
+    - '#49535a'
+    - '#a8d4da'
+    - '#b0cc49'
+    - '#a4a9ac'
+  brandStrength: 0.0625
   lightness: 0.511645702412352
-  saturation: 0.24451404181309044
+  saturation: 0.1875
   rhythmicContrast: 0.016075411345809698
 purpose: []
