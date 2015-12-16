@@ -1,7 +1,7 @@
 name: ABCS
 favicon: null
-layout_spectrum: 0.25181
-typography_spectrum: 0.74819
+layout_spectrum: 0.1416
+typography_spectrum: 1
 title: Your One Stop Business Solution in UAE
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#a8d4da'
     - '#b0cc49'
     - '#a4a9ac'
-  brandStrength: 0.0625
-  lightness: 0.511645702412352
-  saturation: 0.1875
-  rhythmicContrast: 0.016075411345809698
+  brandStrength: 0.8125
+  lightness: 0.3125
+  saturation: 0.25
+  rhythmicContrast: 0
 purpose: []
